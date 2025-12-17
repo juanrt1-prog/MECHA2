@@ -17,6 +17,7 @@ import androidx.privacysandbox.tools.core.model.Method
 import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
 import com.android.volley.Request
+//juan
 class CatalogoMecanicoActivity : AppCompatActivity() {
 
     private lateinit var rv: RecyclerView

@@ -1,6 +1,6 @@
 package com.example.mecha.models
 
-data class Mecanico(//
+data class Mecanico(//juan
     val IdMecanico: Int,
     val Ubicacion: String,
     val Especialidad: String,

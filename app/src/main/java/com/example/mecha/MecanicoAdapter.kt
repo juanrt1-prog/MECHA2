@@ -10,7 +10,7 @@ import android.widget.RatingBar
 import android.widget.Button//
 import android.net.Uri
 import android.content.Intent
-
+//juan
 class MecanicoAdapter(
     private val lista: List<Mecanico>,
     private val onItemClick: (Mecanico) -> Unit

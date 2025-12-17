@@ -42,7 +42,7 @@
         app:layout_constraintTop_toBottomOf="@id/edtIdMecanico"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
-//
+//juan
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvMecanicos"
         android:layout_width="0dp"
