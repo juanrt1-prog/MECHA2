@@ -44,7 +44,7 @@
             android:progressTint="@color/yellow"
             android:secondaryProgressTint="@color/yellow"
             android:thumbTint="@color/yellow"/>
-
+//
         <Button
             android:id="@+id/btnWhatsapp"
             android:layout_width="wrap_content"

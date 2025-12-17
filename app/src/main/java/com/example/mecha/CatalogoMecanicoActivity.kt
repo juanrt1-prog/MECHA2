@@ -8,7 +8,7 @@ import android.widget.Toast
 import kotlin.jvm.java
 import androidx.appcompat.app.AppCompatActivity
 import android.widget.EditText
-import androidx.recyclerview.widget.RecyclerView
+import androidx.recyclerview.widget.RecyclerView//
 import com.example.mecha.models.Mecanico
 import androidx.recyclerview.widget.LinearLayoutManager
 import android.widget.Button
